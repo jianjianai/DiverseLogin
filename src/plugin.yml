@@ -1,0 +1,12 @@
+name: DiverseLogin
+main: cn.jji8.DiverseLogin.main
+version: 1.3
+author: jianjianai
+api-version: 1.13
+softdepend: []
+commands:
+  DiverseLogin:
+    aliases: [DL,登入,登陆]
+    description: "DiverseLogin的主命令"
+    permission-message: "你没有权限执行此命令"
+    usage: /<command> 命令
